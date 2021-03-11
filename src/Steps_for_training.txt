@@ -1,0 +1,26 @@
+----------------------------------------
+Steps for training EMOTIC fusion model 
+----------------------------------------
+
+1. Download the images' zip file and extract it inside the folder `dataset`
+[Link to download emotic dataset](https://drive.google.com/open?id=0B7sjGeF4f3FYQUVlZ3ZOai1ieEU)
+After extracting the folders should look like this: dataset/emotic/*
+* = {emodb_small, mscoco, framesdb, ade20k}
+
+2. Download pre-trained models and keep them inside the folder `pretrained_models`
+[Link to download pretrained models](https://www.dropbox.com/sh/hnaj6fxl4ve78n8/AACPl4tZeG5lvBzUH7oiB9Yna?dl=0)
+
+3. Check the GPU IDs that is set inside the `OptsEmotionModel.lua` file. Make sure that there is at least 3GB GPU memory available before training. 
+
+4. Run the file `main.lua` with the following command:
+`th main.lua` 
+The output files will be generated and stored in a folder named `output_files`
+To save in a custom folder, run with the following command:
+`th main.lua -append custom_folder`
+
+
+(1) P.S. The parameters and variables have been already set to recreate the experiments. But, you can choose your own as per your requirements. 
+
+(2) P.S. *Optional: The docker image (based on Torch7) used for training can be donwloaded at:
+https://drive.google.com/file/d/0B7sjGeF4f3FYbmwzeXNwa21WQjQ/view?usp=sharing
+It is a bit huge (~7.2GB) as it contains lots of libraries and related content.
