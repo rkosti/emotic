@@ -9,6 +9,9 @@
 ## Please, fill the following form to request access to the dataset and the corresponding annotations. 
 [Access Request for EMOTIC](https://forms.gle/wvhComeDHwQPD6TE6)
 
+## BENCHMARKS
+[Benchmarks for Emotion Recognition in Context](https://paperswithcode.com/sota/emotion-recognition-in-context-on-emotic)
+
 ## Other related files 
 + Demo for computing the Average Precision (AP) [demoComputeAP](https://1drv.ms/u/s!AkYHbdGNmIVCgbYZB_dY3wuWJou_5A?e=jcsZUj)
 
