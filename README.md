@@ -3,11 +3,12 @@
 
 <img src="src/EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
+## ACCESS to EMOTIC 
+Please, fill the following form to request access to the dataset and the corresponding annotations. 
+[Access Request for EMOTIC](https://forms.gle/wvhComeDHwQPD6TE6)
+
 ## Watch a ~3 minute video (just me speaking, no presentations or anything) summarizing my thesis on this topic.
 + YouTube Link: [Read Thesis  in 4-Minutes](https://www.youtube.com/watch?v=D678cyrhTRQ)
-
-## Please, fill the following form to request access to the dataset and the corresponding annotations. 
-[Access Request for EMOTIC](https://forms.gle/wvhComeDHwQPD6TE6)
 
 ## BENCHMARKS
 [Benchmarks for Emotion Recognition in Context](https://paperswithcode.com/sota/emotion-recognition-in-context-on-emotic)
