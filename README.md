@@ -4,7 +4,10 @@
 <img src="src/EMOTIC_mean_images/emotic_logo.png" alt="drawing" width="100"/>
 
 ## ACCESS to EMOTIC 
-Please, fill the following form to request access to the dataset and the corresponding annotations. 
+**Note: EMOTIC dataset can be used only for non-commercial research and education purposes.**
+
+Please, fill the following form to request access to the dataset and the corresponding annotations.
+
 [Access Request for EMOTIC](https://forms.gle/wvhComeDHwQPD6TE6)
 
 ## Watch a ~3 minute video (just me speaking, no presentations or anything) summarizing my thesis on this topic.
